@@ -1,5 +1,7 @@
 .DS_Store
-
+**/.DS_Store
+.vscode
+**/.vscode
 # Logs
 logs
 *.log
@@ -61,3 +63,6 @@ typings/
 
 # next.js build output
 .next
+
+# .azcli scratch files
+*.azcli
